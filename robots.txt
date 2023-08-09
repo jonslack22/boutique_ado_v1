@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /accounts/
+Disallow: /bag/
+Sitemap: https://boutique-ado-jonslack-3727cf3b74b3.herokuapp.com/sitemap.xml
